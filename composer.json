@@ -1,5 +1,6 @@
 {
     "name": "ezsystems/hybrid-platform-ui-assets",
+    "description": "External assets dependencies for Hybrid Platform UI",
     "type": "ezplatform-meta-assets",
     "license": "GPL-2.0",
     "require": {
