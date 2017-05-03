@@ -1,0 +1,14 @@
+{
+    "name": "ezsystems/hybrid-platform-ui-assets",
+    "type": "ezplatform-meta-assets",
+    "license": "GPL-2.0",
+    "require": {
+        "composer/installers": "dev-ezplatform_assets as 1.3.x-dev"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dpobel/installers"
+        }
+    ]
+}
